@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Penemu Islam</string>
+    <string-array name="name">
+        <item>Ibn Sina (980 – 1037)</item>
+        <item>Al-Khawarizmi (780-850)</item>
+        <item>Jabir Ibn- Hayyan (721-815)</item>
+        <item>Ibnu al-Nafis (1213 – 1288)</item>
+        <item>Ibnu Khaldun (1332 – 1406)</item>
+        <item>Al Zahrawi (936 – 1013)</item>
+        <item>Ibnu Haitham (965 – 1040)</item>
+        <item>Umar Khayyam (1048 – 1131)</item>
+    </string-array>
+
+    <string-array name="detail">
+        <item>Dunia medis kini semakin berkembang. Perkembangan tersebut berkat eksplorasi ilmuwan Persia, Ibn Sina yang menulis buku The Canon of Medicine. Buku yang ia tulis menjadi pedoman mahasiswa kedokteran di Eropa hingga tahun 1600-an.</item>
+        <item>Al-Khawarizimi ialah ilmuwan muslim yang ahli di bidang matematika. Imuwan dari Persia ini menemukan sistem penomoran 1-10. Ia juga berjasa menemukan konsep aljabar dan algoritma.</item>
+        <item>Jabir ialah ilmuwan dari Iran yang ahli di bidang kimia. Dia adalah orang pertama yang mengidentifikasi zat yang bisa melarutkan emas. Jabir juga orang pertama yang menemukan asam sulfat, klorida dan nitrat. Kontribusi lainnya ialah pada penemuan alkali. Karya-karya Jabir antara lain Kitab Al-Kimya, Kitab Al-Sab'een, Kitab Al Rahmah dan lain sebagainya.</item>
+        <item>Ibnu al-Nafis merupakan ilmuwan dari Damaskus yang punya kontribusi besar di bidang medis. Ia merupakan ilmuwan pertama yang mengungkapkan teori pembuluh darah kapiler. Ia secara akurat dapat mendeskripsikan peredaran darah dalam tubuh. Ibnu al-Nafis sering dijuluki sebagai bapak fisiologi peredaran darah.</item>
+        <item>Ibnu Khaldun ialah ilmuwan dari Tunisia yang dikenal sebagai bapak pendiri ilmu historiografi, sosiologi dan ekonomi. Karyanya yang terkenal adalam Muqaddimah. Ilmuwan ini sudah hafal Alquran sejak dini lho.</item>
+        <item>Al Zahrawi ialah ilmuwan dari Cordoba yang ahli di bidang kedokteran. Dia yang menemukan konsep operasi modern. Penemuannya yang sangat berguna hingga kini korsep untuk membantu proses persalinan.</item>
+        <item>Ibnu Haitham merupakan ilmuwan Irak yang ahli di bidang matematika. Ia dikenal sebagai pendiri optik modern. Ibnu Haitahm berhasil membedah konsep cahaya.</item>
+        <item>Umar Khayyam ialah ilmuwan Iran yang berhasil mengkoreksi kalender Persia. Umar Khayam juga menghitung panjang tahun matahari secara akurat. Keren ya.</item>
+    </string-array>
+</resources>
